@@ -1,6 +1,6 @@
 # SmartModeler - JSON 转 Swift SmartCodable 模型工具
 
-[🌐 网页版](https://iammccc.github.io) | [📦 软件版](https://github.com/iAmMccc/iAmMccc.github.io/blob/main/model_maker.dmg)
+[🌐 网页版](https://iammccc.github.io) | [📦 软件版](https://github.com/iAmMccc/iAmMccc.github.io/raw/main/model_maker.dmg)
 
 SmartModeler 是一款专为 Swift 生态中 [SmartCodable](https://github.com/iAmMccc/SmartCodable) 库打造的 JSON 转模型工具。
 无论是在线使用还是本地运行，都能帮你将任意标准 JSON 数据，一键生成符合 SmartCodable 规范的 Swift 结构体代码，显著提升开发效率与准确性。
